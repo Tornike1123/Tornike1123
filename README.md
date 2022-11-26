@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Tornike1123/Tornike1123/blob/main/react.png)
+![logo](https://github.com/Tornike1123/Tornike1123/blob/main/react2.png)
 
 <h1 align="center">Hi 👋, I'm Tornike Khatiashvili</h1>
 <h3 align="center">A passionate Frontend developer from Georgia</h3>
