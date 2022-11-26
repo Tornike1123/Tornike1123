@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tornike Khatiashvili</h1>
 <h3 align="center">A passionate Frontend developer from Georgia</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="480" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tornike-khatiashvili&label=Profile%20views&color=0e75b6&style=flat" alt="Tornike1123" /> </p>
 
@@ -16,8 +16,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tornike1123&show_icons=true&locale=en&layout=compact" alt="Tornike1123" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tornike1123&show_icons=true&locale=en" alt="Tornike1123" </p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Tornike1123&" alt="Tornike1123" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tornike1123&" alt="Tornike1123" /></p>
 
