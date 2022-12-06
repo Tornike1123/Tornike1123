@@ -3,14 +3,14 @@
 
 <img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# Hi there 👋, I am Tornike Khatiashvili
+# Hi 👋, I am Tornike Khatiashvili
 ##  Front-End Developer
 
 ### Skills & Experiences: 
 * REACT / REDUX ⚛️
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS 💻
 
-- 🌱 I’m currently learning Laravel
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tornike1123&label=Profile%20views&color=0e75b6&style=flat" alt="Tornike1123" /> </p>
