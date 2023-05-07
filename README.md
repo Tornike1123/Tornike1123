@@ -7,7 +7,7 @@
 ##  Front-End Developer
 
 ### Skills & Experiences: 
-* REACT / REDUX /CONTEXT API / Redux Toolkit / Next.js / Typescript ⚛️
+* REACT / REDUX / CONTEXT API / Redux Toolkit / MobX / Next.js / Typescript ⚛️
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Material UI / Tailwind Css 💻
 
 
@@ -81,6 +81,13 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
 			alt="redux"
+			width="40"
+			height="40"
+		/>
+	</a>
+		<a href="https://mobx.js.org/" target="_blank" rel="noreferrer">
+		<img src="https://camo.githubusercontent.com/0dc3b9afa37acc792f49624b1f8dd364b55c9107167fd291ffde1d81917aceba/68747470733a2f2f6d6f62782e6a732e6f72672f6173736574732f6d6f62782e706e67"
+			alt="mobX"
 			width="40"
 			height="40"
 		/>
